@@ -1,3 +1,4 @@
 {
-  "close_button_action": "close"
+  "show_download_button": true,
+  "download_url": "https://example.com/apka-link"
 }
